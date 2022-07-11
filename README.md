@@ -5,8 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djdj4275&show_icons=true&theme=great-gatsby)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djdj4275&layout=compact&theme=tokyonight)
-
 <!--
 **djdj4275/djdj4275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
