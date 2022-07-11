@@ -1,4 +1,4 @@
-### frontend developer 👋
+### frontend developer junyong kim👋
 
 <a href="https://github.com/djdj4275"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:djdj4275@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
