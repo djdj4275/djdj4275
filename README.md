@@ -3,6 +3,8 @@
 <a href="https://github.com/djdj4275"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:djdj4275@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?djdj4275=anuraghazra&theme=great-gatsby&show_icons=true)
+
 <!--
 **djdj4275/djdj4275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
