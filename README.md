@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
   <img src="https://img.shields.io/badge/phaser-FF0000?style=for-the-badge&logo=phaser3&logoColor=white">
+  <img src="https://img.shields.io/badge/golang-#00ADD8?style=for-the-badge&logo=golang&logoColor=blue">
   <br>
   <br>
   <br>
